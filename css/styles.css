@@ -65,12 +65,12 @@ p{
     padding: 5% 0;
 }
 #features i{
-    color: #ff4c68;
+    color: #ef8172;
     font-size: 2rem;
 }
 
 #features i:hover{
-    color: #fb614c;
+    color: #ff4c68;
 }
 #features p{
     width: 80%;
@@ -79,7 +79,7 @@ p{
 
 /* Testimonials */
 #testimonials{
-    background-color: #fb614c;
+    background-color: #ef8172;
     color: #ffffff;
     text-align: center;
 }
@@ -95,7 +95,7 @@ p{
 
 /* Press */
 #press{
-    background-color: #fb614c;
+    background-color: #ef8172;
     text-align: center;
     padding-bottom: 3%;
 }
@@ -104,4 +104,13 @@ p{
     margin: 20px 20px 10px;
 }
 
+/* pricing */
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+
+.pricing-column{
+    padding: 3% 2%;
+}
 
