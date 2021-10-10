@@ -119,3 +119,50 @@ p{
     padding: 3% 2%;
 }
 
+
+/* Media Query */
+
+@media (max-width: 1028px){
+    #title{
+        text-align: center;
+    }
+    .title-img{
+        position: static;
+        transform: rotate(0);
+        margin-top: 5%;
+    }
+}
+
+
+/* call to action */
+#cta{
+    padding: 7% 15%;
+    background-color: #ff4c68;
+    text-align: center;
+    
+}
+
+#cta h3{
+    font-family: 'Montserrat';
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+/* footer */
+
+#footer{
+    background-color: #ffffff;
+    text-align: center;
+    padding: 7% 15% 7%;
+}
+
+.social-media .icon{
+    display: inline-block;
+    margin: 10px;
+    font-size: 1.5rem;
+}
+
+.social-media .icon a{
+    color: #000;
+}
